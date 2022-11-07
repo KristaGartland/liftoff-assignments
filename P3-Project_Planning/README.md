@@ -16,4 +16,4 @@ https://trello.com/b/66O3VvWv/liftoff-project
 
 ### Project Repo Link
 
-Include a link to your project on GitHub.
+https://github.com/KristaGartland/feel-app
